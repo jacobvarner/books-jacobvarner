@@ -1,0 +1,26 @@
+# Website name
+title: Jacob Varner's Basketball Blog
+
+# Website description
+description: >- # this means to ignore newlines until "baseurl:"
+
+baseurl: "/"
+url: "https://hoops.jacobvarner.com"
+
+# Number of posts per page and url/slug used for pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Sets the Sass output style (nested, expanded, compact, compressed)
+sass:
+  style: compressed
+
+# Include ads?
+show_ads: true
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
