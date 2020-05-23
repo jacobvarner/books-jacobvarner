@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div id="bookshelf-container">
+    {% for post in site.posts  %}
+        {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+        {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+        {% if forloop.first %}
+            {% assign count = 0 %}
+            {% for p in site.posts %}
+                {% assign year = p.date | date: "%Y" %}
+                {% if year == this_year %}
+                    {% assign count = count | plus: 1 %}
+                {% endif %}
+            {% endfor %}
+            <h2 class="bookshelf-year">{{ this_year }} ({{ count }})</h2>
+        {% endif %}
+
+        <a class="book-link" href="{{ post.url }}">
+            <img class="book-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
+        </a>
+
+        {% if forloop.last %}
+        {% else %}
+            {% if this_year != next_year %}
+                {% assign count = 0 %}
+                {% for p in site.posts %}
+                    {% assign year = p.date | date: "%Y" %}
+                    {% if year == next_year %}
+                        {% assign count = count | plus: 1 %}
+                    {% endif %}
+                {% endfor %}
+                <h2 class="bookshelf-year">{{ next_year }} ({{ count }})</h2>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</div>

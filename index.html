@@ -6,87 +6,113 @@ layout: default
   <!-- This loops through the paginated posts -->
   {% for post in paginator.posts limit:1 %}
     <div class="post-container">
-      {% if post.tags %}
-        {% for tag in post.tags %}
-        <span class="post-tag">
-          <p><i class="fas fa-tag" aria-hidden="true"></i> {{ tag }}</p>
-        </span>
-        {% endfor %}
-      {% endif %}
-      <h2 class="post-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-author"><i class="fas fa-user" aria-hidden="true"></i> {{ post.author}} </p>
-      <p class="post-date"><i class="fas fa-calendar-day" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
-      {% if post.time_to_read %}
-        <p class="post-time-to-read"><i class="fas fa-clock" aria-hidden="true"></i> {{ post.time_to_read }} </p>
-      {% endif %}
+      <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
+      <div class="post-information">
+        {% if post.tags %}
+          {% for tag in post.tags %}
+          <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+            <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
+          </a>
+          {% endfor %}
+        {% endif %}
+        <h2 class="post-title">{{ post.title }}</h2>
+        <p class="post-author">by {{ post.author}} </p>
+        <div class="rating-container">
+          <p class="rating-label">Rating</p>
+          {% for i in (1..post.rating) %}
+            <span class="rating-circle-full"></span>
+          {% endfor %}
+          {% for i in (post.rating..9) %}
+            <span class="rating-circle-empty"></span>
+          {% endfor %}
+        </div>
+        <a class="post-link" href="{{ post.url | relative_url }}">Read My Review</a>
+        <a class="affiliate-link" href="{{ post.affiliate-link }}" target="_blank">Buy the Book</a>
+      </div>
     </div>
   {% endfor %}
-
-  {% include ad-feed.html %}
-
+  {% include ad.html %}
   {% for post in paginator.posts limit:3 offset:1 %}
     <div class="post-container">
-      {% if post.tags %}
-        {% for tag in post.tags %}
-        <span class="post-tag">
-          <p><i class="fas fa-tag" aria-hidden="true"></i> {{ tag }}</p>
-        </span>
-        {% endfor %}
-      {% endif %}
-      <h2 class="post-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-author"><i class="fas fa-user" aria-hidden="true"></i> {{ post.author}} </p>
-      <p class="post-date"><i class="fas fa-calendar-day" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
-      {% if post.time_to_read %}
-        <p class="post-time-to-read"><i class="fas fa-clock" aria-hidden="true"></i> {{ post.time_to_read }} </p>
-      {% endif %}
+      <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
+      <div class="post-information">
+        {% if post.tags %}
+          {% for tag in post.tags %}
+          <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+            <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
+          </a>
+          {% endfor %}
+        {% endif %}
+        <h2 class="post-title">{{ post.title }}</h2>
+        <p class="post-author">by {{ post.author}} </p>
+        <div class="rating-container">
+          <p class="rating-label">Rating</p>
+          {% for i in (1..post.rating) %}
+            <span class="rating-circle-full"></span>
+          {% endfor %}
+          {% for i in (post.rating..9) %}
+            <span class="rating-circle-empty"></span>
+          {% endfor %}
+        </div>
+        <a class="post-link" href="{{ post.url | relative_url }}">Read My Review</a>
+        <a class="affiliate-link" href="{{ post.affiliate-link }}" target="_blank">Buy the Book</a>
+      </div>
     </div>
   {% endfor %}
-
-  {% include ad-feed.html %}
-
+  {% include ad.html %}
   {% for post in paginator.posts limit:3 offset:4 %}
     <div class="post-container">
-      {% if post.tags %}
-        {% for tag in post.tags %}
-        <span class="post-tag">
-          <p><i class="fas fa-tag" aria-hidden="true"></i> {{ tag }}</p>
-        </span>
-        {% endfor %}
-      {% endif %}
-      <h2 class="post-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-author"><i class="fas fa-user" aria-hidden="true"></i> {{ post.author}} </p>
-      <p class="post-date"><i class="fas fa-calendar-day" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
-      {% if post.time_to_read %}
-        <p class="post-time-to-read"><i class="fas fa-clock" aria-hidden="true"></i> {{ post.time_to_read }} </p>
-      {% endif %}
+      <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
+      <div class="post-information">
+        {% if post.tags %}
+          {% for tag in post.tags %}
+          <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+            <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
+          </a>
+          {% endfor %}
+        {% endif %}
+        <h2 class="post-title">{{ post.title }}</h2>
+        <p class="post-author">by {{ post.author}} </p>
+        <div class="rating-container">
+          <p class="rating-label">Rating</p>
+          {% for i in (1..post.rating) %}
+            <span class="rating-circle-full"></span>
+          {% endfor %}
+          {% for i in (post.rating..9) %}
+            <span class="rating-circle-empty"></span>
+          {% endfor %}
+        </div>
+        <a class="post-link" href="{{ post.url | relative_url }}">Read My Review</a>
+        <a class="affiliate-link" href="{{ post.affiliate-link }}" target="_blank">Buy the Book</a>
+      </div>
     </div>
   {% endfor %}
-
-  {% include ad-feed.html %}
-
+  {% include ad.html %}
   {% for post in paginator.posts offset:7 %}
     <div class="post-container">
-      {% if post.tags %}
-        {% for tag in post.tags %}
-        <span class="post-tag">
-          <p><i class="fas fa-tag" aria-hidden="true"></i> {{ tag }}</p>
-        </span>
-        {% endfor %}
-      {% endif %}
-      <h2 class="post-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-author"><i class="fas fa-user" aria-hidden="true"></i> {{ post.author}} </p>
-      <p class="post-date"><i class="fas fa-calendar-day" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>
-      {% if post.time_to_read %}
-        <p class="post-time-to-read"><i class="fas fa-clock" aria-hidden="true"></i> {{ post.time_to_read }} </p>
-      {% endif %}
+      <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
+      <div class="post-information">
+        {% if post.tags %}
+          {% for tag in post.tags %}
+          <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+            <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
+          </a>
+          {% endfor %}
+        {% endif %}
+        <h2 class="post-title">{{ post.title }}</h2>
+        <p class="post-author">by {{ post.author}} </p>
+        <div class="rating-container">
+          <p class="rating-label">Rating</p>
+          {% for i in (1..post.rating) %}
+            <span class="rating-circle-full"></span>
+          {% endfor %}
+          {% for i in (post.rating..9) %}
+            <span class="rating-circle-empty"></span>
+          {% endfor %}
+        </div>
+        <a class="post-link" href="{{ post.url | relative_url }}">Read My Review</a>
+        <a class="affiliate-link" href="{{ post.affiliate-link }}" target="_blank">Buy the Book</a>
+      </div>
     </div>
   {% endfor %}
 

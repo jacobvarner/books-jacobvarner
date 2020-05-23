@@ -1,11 +1,13 @@
 # Website name
-title: Jacob Varner's Basketball Blog
+title: Jacob Varner's Book Log
 
 # Website description
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
+  Book reviews, ratings, and recommendations based on my reading list, the
+  topics I enjoy, and the books that I think others should read.
 
 baseurl: "/"
-url: "https://hoops.jacobvarner.com"
+url: "https://books.jacobvarner.com"
 
 # Number of posts per page and url/slug used for pagination
 paginate: 10
@@ -14,9 +16,6 @@ paginate_path: "/page:num/"
 # Sets the Sass output style (nested, expanded, compact, compressed)
 sass:
   style: compressed
-
-# Include ads?
-show_ads: true
 
 # Build settings
 plugins:

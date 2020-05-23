@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<div id="posts-container">
+    <!-- This loops through the paginated posts -->
+    {% for post in site.tags[page.tag] limit:1 %}
+        <div class="post-container">
+        <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
+        <div class="post-information">
+            {% if post.tags %}
+            {% for tag in post.tags %}
+            <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+                <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
+            </a>
+            {% endfor %}
+            {% endif %}
+            <h2 class="post-title">{{ post.title }}</h2>
+            <p class="post-author">by {{ post.author}} </p>
+            <div class="rating-container">
+                <p class="rating-label">Rating</p>
+                {% for i in (1..post.rating) %}
+                    <span class="rating-circle-full"></span>
+                {% endfor %}
+                {% for i in (post.rating..9) %}
+                    <span class="rating-circle-empty"></span>
+                {% endfor %}
+            </div>
+            <a class="post-link" href="{{ post.url | relative_url }}">Read My Review</a>
+            <a class="affiliate-link" href="{{ post.affiliate-link }}" target="_blank">Buy the Book</a>
+        </div>
+        </div>
+    {% endfor %}
+    {% include ad.html %}
+    {% for post in site.tags[page.tag] limit:3 offset:1 %}
+        <div class="post-container">
+        <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
+        <div class="post-information">
+            {% if post.tags %}
+            {% for tag in post.tags %}
+            <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+                <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
+            </a>
+            {% endfor %}
+            {% endif %}
+            <h2 class="post-title">{{ post.title }}</h2>
+            <p class="post-author">by {{ post.author}} </p>
+            <div class="rating-container">
+                <p class="rating-label">Rating</p>
+                {% for i in (1..post.rating) %}
+                    <span class="rating-circle-full"></span>
+                {% endfor %}
+                {% for i in (post.rating..9) %}
+                    <span class="rating-circle-empty"></span>
+                {% endfor %}
+            </div>
+            <a class="post-link" href="{{ post.url | relative_url }}">Read My Review</a>
+            <a class="affiliate-link" href="{{ post.affiliate-link }}" target="_blank">Buy the Book</a>
+        </div>
+        </div>
+    {% endfor %}
+</div>
