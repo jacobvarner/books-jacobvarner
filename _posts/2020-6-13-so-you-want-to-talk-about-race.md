@@ -8,7 +8,7 @@ affiliate-link: https://amzn.to/3hpwbWI
 rating: 10
 ---
 
-This book is fantastic, and gets even better towards the end. I personally thought that this book was better than [_White Fragility_]({% post_url 2020-4-11-white-fragility %}) for me, but I think they both serve two different audiences. [_White Fragility_]({% post_url 2020-4-11-white-fragility %}) addresses a much more narrow topic in my mind, and that is more approachable for lots of people and a great start. This book however, covers a lot more and points out a lot of issues that are less talked about and often more important than the simple acknowledgement that white people have privilege.
+This book is fantastic, and gets even better towards the end. I personally thought that this book was better than [_White Fragility_]({% post_url 2020-4-11-white-fragility %}) for me, but I think they both serve two different audiences. [_White Fragility_]({% post_url 2020-4-11-white-fragility %}) addresses a much more narrow topic in my mind, and that is more approachable for lots of people and a great start. This book, however, covers a lot more and points out a lot of issues that are less talked about and more important than the simple acknowledgement that white people have privilege.
 
 I believe that [_White Fragility_]({% post_url 2020-4-11-white-fragility %}) is a good read for people just trying to start acknowledging the issues with white privilege while this goes deeper into many other issues as well as more action that can be taken. I appreciated this book because it appears to be written more towards "liberals" or people that think they aren't racist. I learned a lot and really enjoyed how topics such as tone policing, privilege, and action over talk are addressed.
 
