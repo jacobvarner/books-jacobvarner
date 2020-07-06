@@ -8,7 +8,7 @@ affiliate-link: https://amzn.to/2ADrcB6
 rating: 9
 ---
 
-I really enjoyed this book because it was simply a short view into the experiences of a black woman as she grew up in school, at work, and in the church. Austin Channing Brown shares her experiences and thoughts on the things going on around her and how they are connected to other past events and patterns of racism.
+I really enjoyed this book because it was simply a short view into the experiences of a Black woman as she grew up in school, at work, and in the church. Austin Channing Brown shares her experiences and thoughts on the things going on around her and how they are connected to other past events and patterns of racism.
 
 Throughout the book, I kept seeing myself on the other side of situations she writes about. I'd like to think that I wasn't awful in high school or earlier in life, but this book certainly points out lots of small things that I did and I know I witnessed in school and even in the workplace that make life even harder for Black people, especially when in situations where they are surrounded by all or mostly white people.
 
