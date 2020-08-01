@@ -5,7 +5,7 @@ cover: /images/covers/white-fragility.jpg
 tags: [Race]
 author: Robin DiAngelo
 affiliate-link: https://amzn.to/2A1XGo4
-rating: 10
+rating: 9
 ---
 
 I figured I would enjoy this book and hoped to learn something when I bought it, but even I didn't expect to enjoy it so much that I read it in basically one sitting.
