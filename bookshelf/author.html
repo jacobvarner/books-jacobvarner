@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div id="bookshelf-sorting-controls">
+    <p class="sort-by-text">Sort by: </p>
+    <a href="/bookshelf/year" class="sort-by-link">Year</a>
+    <a href="/bookshelf/author" class="sort-by-link active">Author</a>
+    <a href="/bookshelf/tag" class="sort-by-link">Tag</a>
+</div>
+<div id="bookshelf-container">
+    {% assign authors = nil %}
+    {% for post in site.posts %}
+        {% assign authors = authors | concat: post.author | uniq %}
+    {% endfor %}
+    {% assign sorted-authors = authors | sort %}
+    {% for author in sorted-authors %}
+        <h2 class="bookshelf-heading" id="{{ author | slugify }}">{{ author }}</h2>
+        {% for book in site.posts %}
+            {% if book.author contains author %}
+                <a class="book-link" href="{{ book.url }}">
+                    <img class="book-image" src="{{ book.cover | relative_url }}" alt="{{ book.title }} Cover" />
+                </a>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</div>

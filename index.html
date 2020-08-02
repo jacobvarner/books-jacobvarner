@@ -10,13 +10,13 @@ layout: default
       <div class="post-information">
         {% if post.tags %}
           {% for tag in post.tags %}
-          <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+          <a class="post-tag" href="/bookshelf/tag#{{ tag | slugify }}">
             <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
           </a>
           {% endfor %}
         {% endif %}
         <h2 class="post-title">{{ post.title }}</h2>
-        <p class="post-author">by {{ post.author}} </p>
+        <p class="post-author">by {{ post.author | array_to_sentence_string }} </p>
         <div class="rating-container">
           <p class="rating-label">Rating</p>
           {% for i in (1..post.rating) %}
@@ -38,13 +38,13 @@ layout: default
       <div class="post-information">
         {% if post.tags %}
           {% for tag in post.tags %}
-          <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+          <a class="post-tag" href="/bookshelf/tag#{{ tag | slugify }}">
             <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
           </a>
           {% endfor %}
         {% endif %}
         <h2 class="post-title">{{ post.title }}</h2>
-        <p class="post-author">by {{ post.author}} </p>
+        <p class="post-author">by {{ post.author | array_to_sentence_string}} </p>
         <div class="rating-container">
           <p class="rating-label">Rating</p>
           {% for i in (1..post.rating) %}
@@ -66,13 +66,13 @@ layout: default
       <div class="post-information">
         {% if post.tags %}
           {% for tag in post.tags %}
-          <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+          <a class="post-tag" href="/bookshelf/tag#{{ tag | slugify }}">
             <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
           </a>
           {% endfor %}
         {% endif %}
         <h2 class="post-title">{{ post.title }}</h2>
-        <p class="post-author">by {{ post.author}} </p>
+        <p class="post-author">by {{ post.author | array_to_sentence_string}} </p>
         <div class="rating-container">
           <p class="rating-label">Rating</p>
           {% for i in (1..post.rating) %}
@@ -94,13 +94,13 @@ layout: default
       <div class="post-information">
         {% if post.tags %}
           {% for tag in post.tags %}
-          <a class="post-tag" href="/tag/{{ tag | downcase | replace:' ','-' }}">
+          <a class="post-tag" href="/bookshelf/tag#{{ tag | slugify }}">
             <i class="fas fa-tag" aria-hidden="true"></i><p>{{ tag }}</p>
           </a>
           {% endfor %}
         {% endif %}
         <h2 class="post-title">{{ post.title }}</h2>
-        <p class="post-author">by {{ post.author}} </p>
+        <p class="post-author">by {{ post.author | array_to_sentence_string}} </p>
         <div class="rating-container">
           <p class="rating-label">Rating</p>
           {% for i in (1..post.rating) %}

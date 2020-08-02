@@ -3,7 +3,7 @@ layout: post
 title: Un-Trumping America
 cover: /images/covers/un-trumping-america.jpg
 tags: [Politics]
-author: Dan Pfeiffer
+author: [Dan Pfeiffer]
 affiliate-link: https://amzn.to/2zncfCz
 rating: 8
 ---

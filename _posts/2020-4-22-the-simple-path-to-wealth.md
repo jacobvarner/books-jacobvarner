@@ -3,7 +3,7 @@ layout: post
 title: The Simple Path to Wealth
 cover: /images/covers/the-simple-path-to-wealth.jpg
 tags: [Personal Finance]
-author: J L Collins
+author: [J L Collins]
 affiliate-link: https://amzn.to/2WPSVqw
 rating: 10
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: Between the World and Me
 cover: /images/covers/between-the-world-and-me.jpg
-tags: [Race]
-author: Ta-Nehisi Coates
+tags: [Race, Memoir]
+author: [Ta-Nehisi Coates]
 affiliate-link: https://amzn.to/3hzptgV
 rating: 7
 ---

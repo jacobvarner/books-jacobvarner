@@ -3,7 +3,7 @@ layout: post
 title: Why I'm No Longer Talking to White People About Race
 cover: /images/covers/why-im-no-longer-talking-to-white-people-about-race.jpg
 tags: [Race]
-author: Reni Eddo-Lodge
+author: [Reni Eddo-Lodge]
 affiliate-link: https://amzn.to/2BRhzQ0
 rating: 10
 ---

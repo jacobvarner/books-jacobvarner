@@ -3,7 +3,7 @@ layout: post
 title: Lies We Believe About God
 cover: /images/covers/lies-we-believe-about-god.jpg
 tags: [Christianity]
-author: Paul Young
+author: [Paul Young]
 affiliate-link: https://amzn.to/3c7niNn
 rating: 7
 ---

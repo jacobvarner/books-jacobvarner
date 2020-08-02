@@ -2,8 +2,8 @@
 layout: post
 title: I'm Still Here
 cover: /images/covers/im-still-here.jpg
-tags: [Race]
-author: Austin Channing Brown
+tags: [Race, Memoir]
+author: [Austin Channing Brown]
 affiliate-link: https://amzn.to/2ADrcB6
 rating: 9
 ---

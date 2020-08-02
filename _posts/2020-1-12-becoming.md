@@ -3,7 +3,7 @@ layout: post
 title: Becoming
 cover: /images/covers/becoming.jpg
 tags: [Biography, Politics]
-author: Michelle Obama
+author: [Michelle Obama]
 affiliate-link: https://amzn.to/31iGjca
 rating: 8
 ---

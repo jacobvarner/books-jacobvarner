@@ -3,7 +3,7 @@ layout: post
 title: Smarter Faster Better
 cover: /images/covers/smarter-faster-better.jpg
 tags: [Habits, Productivity]
-author: Charles Duhigg
+author: [Charles Duhigg]
 affiliate-link: https://amzn.to/37T8K2U
 rating: 7
 ---

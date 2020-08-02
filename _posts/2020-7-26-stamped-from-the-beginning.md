@@ -3,7 +3,7 @@ layout: post
 title: Stamped From the Beginning
 cover: /images/covers/stamped-from-the-beginning.jpg
 tags: [History, Race]
-author: Ibram X Kendi
+author: [Ibram X Kendi]
 affiliate-link: https://amzn.to/3jGkVWU
 rating: 10
 ---

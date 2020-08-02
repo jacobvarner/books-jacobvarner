@@ -3,7 +3,7 @@ layout: post
 title: So You Want to Talk About Race
 cover: /images/covers/so-you-want-to-talk-about-race.jpg
 tags: [Race]
-author: Ijeoma Oluo
+author: [Ijeoma Oluo]
 affiliate-link: https://amzn.to/3hpwbWI
 rating: 10
 ---

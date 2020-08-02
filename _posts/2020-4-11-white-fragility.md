@@ -3,7 +3,7 @@ layout: post
 title: White Fragility
 cover: /images/covers/white-fragility.jpg
 tags: [Race]
-author: Robin DiAngelo
+author: [Robin DiAngelo]
 affiliate-link: https://amzn.to/2A1XGo4
 rating: 9
 ---

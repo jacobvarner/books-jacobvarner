@@ -3,7 +3,7 @@ layout: post
 title: White Rage
 cover: /images/covers/white-rage.jpg
 tags: [History, Race]
-author: Carol Anderson
+author: [Carol Anderson]
 affiliate-link: https://amzn.to/325Ymoi
 rating: 9
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Retire Before Mom and Dad
 cover: /images/covers/retire-before-mom-and-dad.jpg
 tags: [Personal Finance]
-author: Rob Berger
+author: [Rob Berger]
 affiliate-link: https://amzn.to/2zjTGz6
 rating: 8
 ---

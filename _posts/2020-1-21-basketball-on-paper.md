@@ -3,7 +3,7 @@ layout: post
 title: Basketball on Paper
 cover: /images/covers/basketball-on-paper.jpg
 tags: [Sports, Statistics]
-author: Dean Oliver
+author: [Dean Oliver]
 affiliate-link: https://amzn.to/36Qju0h
 rating: 6
 ---

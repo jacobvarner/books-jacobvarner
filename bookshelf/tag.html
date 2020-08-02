@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div id="bookshelf-sorting-controls">
+    <p class="sort-by-text">Sort by: </p>
+    <a href="/bookshelf/year" class="sort-by-link">Year</a>
+    <a href="/bookshelf/author" class="sort-by-link">Author</a>
+    <a href="/bookshelf/tag" class="sort-by-link active">Tag</a>
+</div>
+<div id="bookshelf-container">
+    {% assign tags = nil %}
+    {% for post in site.posts %}
+        {% assign tags = tags | concat: post.tags | uniq %}
+    {% endfor %}
+    {% assign sorted-tags = tags | sort %}
+    {% for tag in sorted-tags %}
+        <h2 class="bookshelf-heading" id="{{ tag | slugify }}">{{ tag }}</h2>
+        {% for book in site.posts %}
+            {% if book.tags contains tag %}
+                <a class="book-link" href="{{ book.url }}">
+                    <img class="book-image" src="{{ book.cover | relative_url }}" alt="{{ book.title }} Cover" />
+                </a>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</div>

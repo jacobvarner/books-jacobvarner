@@ -3,7 +3,7 @@ layout: post
 title: The Color of Law
 cover: /images/covers/the-color-of-law.jpg
 tags: [Race, History]
-author: Richard Rothstein
+author: [Richard Rothstein]
 affiliate-link: https://amzn.to/3dUlGHF
 rating: 9
 ---

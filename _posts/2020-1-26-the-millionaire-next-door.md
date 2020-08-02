@@ -3,7 +3,7 @@ layout: post
 title: The Millionaire Next Door
 cover: /images/covers/the-millionaire-next-door.jpg
 tags: [Personal Finance]
-author: Dr. Thomas J. Stanley and Dr. William D. Danko
+author: [Thomas J. Stanley, William D. Danko]
 affiliate-link: https://amzn.to/2uVK4b3
 rating: 3
 ---

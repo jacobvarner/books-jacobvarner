@@ -3,7 +3,7 @@ layout: post
 title: The War on Normal People
 cover: /images/covers/the-war-on-normal-people.jpg
 tags: [Politics, Economics]
-author: Andrew Yang
+author: [Andrew Yang]
 affiliate-link: https://amzn.to/2S8Z7pP
 rating: 9
 ---

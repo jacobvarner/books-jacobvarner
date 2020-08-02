@@ -3,7 +3,7 @@ layout: post
 title: The Four
 cover: /images/covers/the-four.jpg
 tags: [Business, Technology]
-author: Scott Galloway
+author: [Scott Galloway]
 affiliate-link: https://amzn.to/2ZpvV3b
 rating: 9
 ---

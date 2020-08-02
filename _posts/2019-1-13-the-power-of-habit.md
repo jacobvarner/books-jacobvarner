@@ -3,7 +3,7 @@ layout: post
 title: The Power of Habit
 cover: /images/covers/the-power-of-habit.jpg
 tags: [Habits]
-author: Charles Duhigg
+author: [Charles Duhigg]
 affiliate-link: https://amzn.to/3cQa7Sl
 rating: 8
 ---

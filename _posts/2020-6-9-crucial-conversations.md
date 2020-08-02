@@ -3,7 +3,7 @@ layout: post
 title: Crucial Conversations
 cover: /images/covers/crucial-conversations.jpg
 tags: [Business, Self Help]
-author: Kerry Patterson, Joseph Grenny, Ron McMillian, and Al Switzer
+author: [Kerry Patterson, Joseph Grenny, Ron McMillian, Al Switzer]
 affiliate-link: https://amzn.to/3hapFmx
 rating: 6
 ---

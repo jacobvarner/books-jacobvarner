@@ -3,7 +3,7 @@ layout: post
 title: How to Be an Antiracist
 cover: /images/covers/how-to-be-an-antiracist.jpg
 tags: [Race]
-author: Ibram X Kendi
+author: [Ibram X Kendi]
 affiliate-link: https://amzn.to/2BlLPSx
 rating: 8
 ---

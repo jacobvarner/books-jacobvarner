@@ -3,7 +3,7 @@ layout: post
 title: Why Are All the Black Kids Sitting Together in the Cafeteria?
 cover: /images/covers/why-are-all-the-black-kids-sitting-together-in-the-cafeteria.jpg
 tags: [Race, Psychology]
-author: Beverly Daniel Tatum
+author: [Beverly Daniel Tatum]
 affiliate-link: https://www.amazon.com/Black-Kids-Sitting-Together-Cafeteria/dp/0465060684
 rating: 8
 ---

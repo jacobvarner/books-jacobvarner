@@ -3,7 +3,7 @@ layout: post
 title: The New Jim Crow
 cover: /images/covers/the-new-jim-crow.jpg
 tags: [Race, History, Politics]
-author: Michelle Alexander
+author: [Michelle Alexander]
 affiliate-link: https://amzn.to/2WT47Tc
 rating: 8
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Love and Respect
 cover: /images/covers/love-and-respect.jpg
 tags: [Marriage]
-author: Dr. Emmerson Eggerichs
+author: [Emmerson Eggerichs]
 affiliate-link: https://amzn.to/2WN7mLS
 rating: 5
 ---

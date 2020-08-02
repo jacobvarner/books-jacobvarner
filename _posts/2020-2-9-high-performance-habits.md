@@ -3,7 +3,7 @@ layout: post
 title: High Performance Habits
 cover: /images/covers/high-performance-habits.jpg
 tags: [Habits, Productivity]
-author: Brendon Burchard
+author: [Brendon Burchard]
 affiliate-link: https://amzn.to/2TXpEYr
 rating: 7
 ---

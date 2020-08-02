@@ -574,6 +574,43 @@ article.post-wrapper
           background: $purple
           transition: background ease-out 0.5s, color ease-out 0.5s
 
+div#bookshelf-sorting-controls
+  position: relative
+  max-width: 1020px
+  display: block
+  margin: 20px auto
+  padding: 0 0 0 20px
+
+  p.sort-by-text
+    display: inline-block
+    font-size: 18px
+    color: black
+    line-height: 24px
+    font-family: "Roboto", sans-serif
+    margin-right: 5px
+
+  a.sort-by-link,
+  a.sort-by-link:active,
+  a.sort-by-link:hover,
+  a.sort-by-link:visited
+    display: inline-block
+    padding: 3px 8px
+    border: 3px solid $purple
+    border-radius: 8px
+    color: $purple
+    text-decoration: none
+    font-size: 16px
+    line-height: 24px
+    font-family: "Roboto", sans-serif
+    margin-right: 5px
+
+  a.sort-by-link.active,
+  a.sort-by-link.active:active,
+  a.sort-by-link.active:hover,
+  a.sort-by-link.active:visited
+    color: white
+    background: $purple
+
 div#bookshelf-container
   position: relative
   max-width: 1020px
@@ -583,11 +620,11 @@ div#bookshelf-container
   font-size: 0px
   white-space: none
 
-  h2.bookshelf-year
+  h2.bookshelf-heading
     font-family: "Teko", sans-serif
     font-size: 40px
     margin: 20px 0
-    padding: 0
+    padding: 20px 0 0
   
   a.book-link,
   a.book-link:active,

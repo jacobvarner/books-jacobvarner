@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div id="bookshelf-sorting-controls">
+    <p class="sort-by-text">Sort by: </p>
+    <a href="/bookshelf/year" class="sort-by-link active">Year</a>
+    <a href="/bookshelf/author" class="sort-by-link">Author</a>
+    <a href="/bookshelf/tag" class="sort-by-link">Tag</a>
+</div>
+<div id="bookshelf-container">
+    {% assign grouped-posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
+    {% for group in grouped-posts %}
+        <h2 class="bookshelf-heading" id="{{ group.name | slugify }}">{{ group.name }} ({{ group.size }})</h2>
+        {% for post in group.items %}
+            <a class="book-link" href="{{ post.url }}">
+                <img class="book-image" src="{{ post.cover | relative_url }}" alt="{{ post.title }} Cover" />
+            </a>
+        {% endfor %}
+    {% endfor %}
+</div>

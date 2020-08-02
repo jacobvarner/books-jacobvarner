@@ -3,7 +3,7 @@ layout: post
 title: Rich Dad Poor Dad
 cover: /images/covers/rich-dad-poor-dad.jpg
 tags: [Personal Finance]
-author: Robert Kiyosaki
+author: [Robert Kiyosaki]
 affiliate-link: https://amzn.to/3gkiLKN
 rating: 9
 ---

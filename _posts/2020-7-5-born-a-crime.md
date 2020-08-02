@@ -3,7 +3,7 @@ layout: post
 title: Born a Crime
 cover: /images/covers/born-a-crime.jpg
 tags: [Memoir]
-author: Trevor Noah
+author: [Trevor Noah]
 affiliate-link: https://amzn.to/2Z2JBQY
 rating: 10
 ---

@@ -3,7 +3,7 @@ layout: post
 title: What Is the Bible?
 cover: /images/covers/what-is-the-bible.jpg
 tags: [Christianity]
-author: Rob Bell
+author: [Rob Bell]
 affiliate-link: https://amzn.to/2xcjLi4
 rating: 8
 ---

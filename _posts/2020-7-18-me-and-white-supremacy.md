@@ -3,7 +3,7 @@ layout: post
 title: Me and White Supremacy
 cover: /images/covers/me-and-white-supremacy.jpg
 tags: [Race]
-author: Layla Saad
+author: [Layla Saad]
 affiliate-link: https://amzn.to/3jkt9E7
 rating: 8
 ---

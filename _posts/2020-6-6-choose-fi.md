@@ -3,7 +3,7 @@ layout: post
 title: Choose FI
 cover: /images/covers/choose-fi.jpg
 tags: [Personal Finance]
-author: Chris Mamula with Brad Barrett and Jonathan Mendonsa
+author: [Chris Mamula, Brad Barrett, Jonathan Mendonsa]
 affiliate-link: https://amzn.to/2z9dLYO
 rating: 8
 ---

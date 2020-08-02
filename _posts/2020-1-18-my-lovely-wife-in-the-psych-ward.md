@@ -3,7 +3,7 @@ layout: post
 title: My Lovely Wife in the Psych Ward
 cover: /images/covers/my-lovely-wife-in-the-psych-ward.jpg
 tags: [Memoir, Mental Health]
-author: Mark Lukach
+author: [Mark Lukach]
 affiliate-link: https://amzn.to/31eYBe5
 rating: 8
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Just Mercy
 cover: /images/covers/just-mercy.jpg
 tags: [Race, Law]
-author: Bryan Stevenson
+author: [Bryan Stevenson]
 affiliate-link: https://amzn.to/3hzptgV
 rating: 9
 ---

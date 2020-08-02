@@ -3,7 +3,7 @@ layout: post
 title: Atomic Habits
 cover: /images/covers/atomic-habits.jpg
 tags: [Habits]
-author: James Clear
+author: [James Clear]
 affiliate-link: https://amzn.to/3bX4n7P
 rating: 7
 ---
