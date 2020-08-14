@@ -14,7 +14,7 @@ layout: default
         {% endfor %}
       {% endif %}
       <h2 class="post-title">{{ page.title }}</h2>
-      <p class="post-author">by {{ post.author | array_to_sentence_string }}</p>
+      <p class="post-author">by {{ page.author | array_to_sentence_string }}</p>
       <div class="rating-container">
         <p class="rating-label">Rating</p>
         {% for i in (1..page.rating) %}
