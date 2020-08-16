@@ -12,6 +12,8 @@ Choose FI has been one of my favorite personal finance podcasts, and this book d
 
 Reading this book led me to add even more books to my growing list and even covered topics and books that I've already read. I appreciate the approach this book takes to be a single resource that touches on just about everything that needs to be mentioned in personal finance and the pursuit of financial independence, but stays at a high level and refers other books, blogs, and podcasts to seek out to go further into detail.
 
+{% include ad-article.html %}
+
 The way that topics and chapters in this book were ordered is also very well done. I like that they emphasized saving first, earning more next, and then finally how to invest better. I agree that each area is important to financial independence and I think they got the order right. Financial independent is hard to achieve without all three, but each of the three builds on the other areas.
 
 Lastly, the book does a nice job of contrasting the "normal path" to retirement with the path to early retirement and financial independence. Like [The Simple Path to Wealth]({% post_url 2020-4-22-the-simple-path-to-wealth %}) this book does a good job of dispelling a lot of the myths that people believe, causing them to think financial independence is much harder for a normal person to achieve.

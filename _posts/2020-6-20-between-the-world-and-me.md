@@ -14,6 +14,8 @@ Coates focuses more closely on the attack on Black bodies by "Dreamers" (white p
 
 On top of the harder subjects Coates addresses in the book, I enjoyed his reflection on all the different things he learned and the many different types of Black people he met at Howard University, which he refers to as "The Mecca." Along with Howard, Coates has also been greatly impacted by his upbringing in Baltimore, his living in New York, and even his trip to Paris.
 
+{% include ad-article.html %}
+
 Because this book is one long letter and stream of consciousness, it can be a little hard to follow with Coates thoughts jumping from subject to subject quite frequently. However, looking back on the book/letter as a whole, there is certainly a lot that I gained from reading his unique experiences that are also shared by so many other people like him or at least share his skin color.
 
 Even though I didn't find the book as easy to follow and understand as others that I have been reading lately, I think that makes it special and really reveals the realness of a totally different person's perspective and highlights how much there is to gain by continuing to seek out other people's completely different views and experiences.

@@ -12,6 +12,8 @@ Carol Anderson titled this book to convey the response that white people and tho
 
 I personally learned a lot about the horrible views of former Presidents like Andrew Johnson and their compassion for white people that feared their power was being contested at all with the ending of slavery. Anderson lays out the pivotal laws and policies that were passed, especially in Southern states to restrict the education of Black people in America, which led to many more setbacks and still have lasting effects today.
 
+{% include ad-article.html %}
+
 While I learned a lot about mass incarceration and its design as a way to further disenfranchise Black people while reading [_The New Jim Crow_]({% post_url 2020-4-18-the-new-jim-crow %}), Anderson's chapter on Nixon, Reagan, and the war on drugs further highlighted to purpose of the messaging and policies that allowed it to do so much damage.
 
 The book concludes with the a chapter on immediate counter-reaction after Barack Obama's election as the first Black President as well as a additional add-on chapter that talks a lot about how those reactions led to Donald Trump becoming president. The final chapters talk a lot about how limits to the Voting Rights Act and specifically designed tactics to suppress the vote of Blacks, Latinos, and other minorities is yet another continuation of the pattern of white rage in response to a changing demographic and more gains for non-White people in the US.

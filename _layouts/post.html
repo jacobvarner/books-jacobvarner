@@ -24,14 +24,15 @@ layout: default
           <span class="rating-circle-empty"></span>
         {% endfor %}
       </div>
+      <p class="post-date"><i class="fas fa-calendar-day" aria-hidden="true"></i> {{ page.date | date: '%B %-d, %Y' }}</p>
       <a class="affiliate-link" href="{{ page.affiliate-link }}" target="_blank">Buy the Book</a>
     </div>
   </div>
-  {% include ad.html %}
+  {% include ad-feed.html %}
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-  {% include ad.html %}
+  {% include ad-feed.html %}
   <div class="more-reading">
     <h3>Related Books</h3>
     {% assign maxRelated = 3 %}

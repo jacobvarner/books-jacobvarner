@@ -12,6 +12,8 @@ Wow. I somehow bought this book without even realizing Trevor Noah was South Afr
 
 This was an excellent book that provides a light-hearted but powerful look into the early life of Trevor Noah and how Apartheid in South Africa defined his upbringing as a "colored" person with no sense of clear identity for most of his life. The book touches on so many important aspects and has clear similarities to race systems in America, but it was an amazing read because Noah uses his clever and comedic voice to tie important lessons into his many odd and funny events as a kid growing up in South Africa.
 
+{% include ad-article.html %}
+
 There is a great mix of funny, sad, and just interesting events in his young life, but all in all, I learned a ton about Apartheid and the ways that it still affects the breakdown of race and class in South Africa today and in the not so distant past. Noah even has many great insights on religion, motherhood, hustling, and so much more in just a simple recap of his childhood and young adulthood.
 
 The book was so good that I could barely put it down and ended up using my holiday weekend to just power through the entire thing. I think the lessons on race and South African culture, both good and bad, are very important, but the way that Trevor Noah conveys it with a easy to read story of his life makes it very easy to approach. I found this to be an excellent "break" from some of the more serious books I've been reading, but it was equally thought provoking at the same time.

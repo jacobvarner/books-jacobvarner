@@ -31,7 +31,7 @@ layout: default
       </div>
     </div>
   {% endfor %}
-  {% include ad.html %}
+  {% include ad-feed.html %}
   {% for post in paginator.posts limit:3 offset:1 %}
     <div class="post-container">
       <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
@@ -59,7 +59,7 @@ layout: default
       </div>
     </div>
   {% endfor %}
-  {% include ad.html %}
+  {% include ad-feed.html %}
   {% for post in paginator.posts limit:3 offset:4 %}
     <div class="post-container">
       <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />
@@ -87,7 +87,7 @@ layout: default
       </div>
     </div>
   {% endfor %}
-  {% include ad.html %}
+  {% include ad-feed.html %}
   {% for post in paginator.posts offset:7 %}
     <div class="post-container">
       <img class="post-image" src="{{ post.cover | relative_url }}" alt="{{ post.title}} Cover" />

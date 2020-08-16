@@ -14,6 +14,8 @@ I was looking forward to this book being a nice transition from the heavy recent
 
 At times, you can tell that this is definitely a first book for Arlan, and a lot of the storyline and valuable advice and information is interwoven in a weird sequence. The last half of the book was more enjoyable for me, but that might also be because I've been fairly familiar with Arlan's personal story and background after discovering her as the focus of the previously mentioned podcast and following her on all social media since.
 
+{% include ad-article.html %}
+
 One of the things that I've enjoyed about Arlan ever since hearing about her was her genuineness and open honesty. That voice and vibe comes across very clearly in this book and was one of the aspects that made this book very easy to read and enjoy, when I was in the mood to read.
 
 As a lesbian Black woman in one of the most white male dominated fields, Arlan has quite the story to tell. Add in the fact that she's bounced from industry to industry as well as powered her way through homelessness as an adult and a up and down living situation as a child and she really is an inspiration for those that the entire business world (and America as a whole) almost always overlooks.

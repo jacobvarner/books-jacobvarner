@@ -12,6 +12,8 @@ As I read this book, I kept going back and forth on if I liked it, or didn't lik
 
 The short chapters are nice to cover a lot of ground, but there were several chapters where I wish Young would have expanded on his thoughts a little more and found myself wishing the chapter was longer.
 
+{% include ad-article.html %}
+
 Personally, there was a nice balance of "lies" that were actually revealed or brought up for the first time in my view as well as some that I'm glad I've had the chance to learn from others in the past. I'd hope that not many people reading this book see the entire thing as a complete revelation, but I also hope and imagine that almost everyone will learn a new perspective on the lies that Young addresses.
 
 Overall, I wasn't a massive fan of the book, but I finished it wanting to read more from Young and continue to read his thoughts. He has a very interesting view on several theological points, and some were even views or topics I'd never heard discussed.

@@ -12,6 +12,8 @@ The main point of this book is that racial segregation in housing was almost nev
 
 This book takes a look at several instances from the early 1900's even up until the 2008 housing crisis which each have disproportionately affected Black people in America. A lot of the policies arose around the World Wars where Black people were needed to work factory jobs because of workforce shortages, but then still not given an opportunity to live in housing near their jobs that white people, of equal socioeconomic status, had access too.
 
+{% include ad-article.html %}
+
 While housing segregation was not explicitly legal at a federal or state level, it was still achieved through rules written into society such as not providing equal financial support for white and Blacks, and in many cases, just not financially supporting Black people with bank loans or other protections many white homeowners were given.
 
 Like many of the other aspects of systemic racism that I've read about, this book goes over how when one area of housing segregation was overcome, other laws or actions would step in to make sure it was still the norm. When Black people were allowed by housing developers to live in previously all white neighborhoods, white mobs would still terrorize their homes with no push back from police or local government. While housing segregation was illegal, but school segregation was not, it just meant that Black schools and white schools could be built in certain portions of a city or town and then the housing surrounding those schools would also be fully segregated.

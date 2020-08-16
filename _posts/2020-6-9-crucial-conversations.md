@@ -12,6 +12,8 @@ This book provides helpful strategies for taking on all types of crucial convers
 
 The examples that the book uses seemed to be a little too scripted for me, but I still feel like the strategies that are presented in the book could easily be applied and provide benefit. The examples just make it easy to see when to use which method and how multiple methods can be used in certain situations and how many situations call for these methods.
 
+{% include ad-article.html %}
+
 Overall, I found the book a little dry, but that could be because I had already partially read it and gone over the topics as a portion of my MBA program.
 
 The book ends with a good summary and provides even more examples once all of the different strategies have been covered, which makes it a nice way to wrap up all that the authors intended the reader to gather and use.
