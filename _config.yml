@@ -6,8 +6,21 @@ description: >-
   Book reviews, ratings, and recommendations based on my reading list, the
   topics I enjoy, and the books that I think others should read.
 
+author:
+  twitter: jacobvarner
+
 baseurl: "/"
 url: "https://books.jacobvarner.com"
+
+# Set default image and other fallbacks
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/books-jacobvarner-logo-w-background.png
+        height: 400
+        width: 400
 
 # Number of posts per page and url/slug used for pagination
 paginate: 10
@@ -16,6 +29,12 @@ paginate_path: "/page:num/"
 # Sets the Sass output style (nested, expanded, compact, compressed)
 sass:
   style: compressed
+
+# Set whether future dated posts are included or not
+future: false
+
+# Set timezone for site generation
+timezone: America/Chicago
 
 # Build settings
 plugins:
