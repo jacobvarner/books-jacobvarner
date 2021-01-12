@@ -2,7 +2,7 @@
 layout: post
 title: The 4-Hour Work Week
 cover: /images/covers/the-4-hour-work-week.jpg
-tags: [Productivity]
+tags: [Productivity, Personal Development]
 author: [Timothy Ferriss]
 affiliate-link: https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357
 rating: 4
