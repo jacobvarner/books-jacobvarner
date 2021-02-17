@@ -14,6 +14,8 @@ Ultimately, this book confirmed a lot of the doubts and reservations I had about
 
 A lot of the things that Ferriss credits to his extreme productivity hacks seem like they're either dated and not as attainable in today's workforce/economy, or are only ever available with a bit of luck landing your way.
 
+{% include ad-article.html %}
+
 Maybe Ferriss just has way more skill and productivity than the average person, but I also think the reason that he can spend almost all of his time on "vacation" also has a lot to do with living off of a pretty successful company and then large revenues from highly successful books.
 
 This was another book that just felt like it kept going on and on without adding a lot of new, useful information towards the end. I finally read this book because I wanted to understand his way of thinking better and see if I had misjudged his ideas based on the avenues that I had already heard/read about. However, the book ended up becoming so hard to read and finish that it had the opposite effect and kind of threw off my habits of reading and enjoying the books I read that had been building throughout the year.
