@@ -2,7 +2,7 @@
 layout: post
 title: Moonwalking with Einstein
 cover: /images/covers/moonwalking-with-einstein.jpg
-tags: [Psycology]
+tags: [Psychology]
 author: [Joshua Foer]
 affiliate-link: https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530
 rating: 6

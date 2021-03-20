@@ -2,7 +2,7 @@
 layout: post
 title: Why We Sleep
 cover: /images/covers/why-we-sleep.jpg
-tags: [Psycology, Health]
+tags: [Psychology, Health]
 author: [Matthew Walker]
 affiliate-link: https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316
 rating: 6
