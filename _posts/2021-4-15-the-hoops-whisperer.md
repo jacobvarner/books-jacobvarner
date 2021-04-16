@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Hoops Wisperer
-cover: /images/covers/the-hoops-wisperer.jpg
+title: The Hoops Whisperer
+cover: /images/covers/the-hoops-whisperer.jpg
 tags: [Basketball]
 author: [Idan Ravin]
 affiliate-link: https://www.amazon.com/Hoops-Whisperer-Inside-Basketballs-Players/dp/1592409377
